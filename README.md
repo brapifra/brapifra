@@ -1,5 +1,5 @@
-## Hi there ![Brais](./favicon.gif)
-
+![Brais](./favicon.gif)
+## Hi there 👋
 
 #### 🔭 I’m currently working at Tray.io
 A super cool company that it's [looking for](https://tray.io/careers#careers) someone like you.
