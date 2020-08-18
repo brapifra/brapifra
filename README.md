@@ -3,7 +3,7 @@
 <p>
 
 #### 🔭 I’m currently working at Tray.io
-A super cool company that it's [looking for](https://tray.io/careers#careers) someone like you.
+A super cool company that is [looking for](https://tray.io/careers#careers) someone like you.
 
 #### 🌱 I’m currently learning Vim
 Although I'm still using vscode most of the time 🤫
