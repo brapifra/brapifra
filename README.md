@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ![Brais](./favicon.gif)
 
 
 #### 🔭 I’m currently working at Tray.io
