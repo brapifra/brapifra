@@ -1,8 +1,6 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/brapifra/brapifra/master/favicon.gif" />
-</p>
+<p>
 
 #### 🔭 I’m currently working at Tray.io
 A super cool company that it's [looking for](https://tray.io/careers#careers) someone like you.
