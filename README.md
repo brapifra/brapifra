@@ -1,4 +1,5 @@
-![Brais](./favicon.gif)
+![](./favicon.gif)
+<img src="./favicon.gif" />
 ## Hi there 👋
 
 #### 🔭 I’m currently working at Tray.io
