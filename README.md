@@ -14,7 +14,7 @@ That's why I contribute to several projects like [jest](https://github.com/faceb
 For example, my extension [vscode-phpserver](https://github.com/brapifra/vscode-phpserver) has over 300K downloads!
 
 #### 💬 Ask me about orienteering, testing or startups
-Or whatever you can think of. I like learning new things :D
+Or whatever you can think of. I like learning new things.
 
 #### 🐮 Fun fact: I know how to milk a cow and drive a tractor
-And I won't hesitate to do it if necessary.
+And I won't hesitate to use those skills!
